@@ -76,12 +76,12 @@ async def start_(client: Client, message: Message):
                         "• قروب الدعم •", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "𝐬𝐨𝐮𝐫𝐜𝐞 𝐚𝐥𝐚𝐳𝐢𝐳a²¹🐼", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "《𝘼°𝙔》♡《 𝙎𝙊𝙐𝙍𝘾𝙀》", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "دبـدو໑بـٰههہ⁽💕🐾₎⇡", url="https://t.me/BANDA2M"
+                        "Ỳ ❍ σ Ù Ś Ẹè ẜғ ", url="https://t.me/UU_TEI"
                     )
                 ],
             ]
@@ -101,9 +101,9 @@ async def alive(client: Client, message: Message):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("دبـدو໑بـٰههہ⁽💕🐾₎⇡", url=f"https://t.me/BANDA2M"),
+                InlineKeyboardButton("Ỳ ❍ σ Ù Ś Ẹè ẜғ ", url=f"https://t.me/UU_TEI"),
                 InlineKeyboardButton(
-                    "𝐬𝐨𝐮𝐫𝐜𝐞 𝐚𝐥𝐚𝐳𝐢𝐳a²¹🐼", url=f"https://t.me/BANDA1M"
+                    "《𝘼°𝙔》♡《 𝙎𝙊𝙐𝙍𝘾𝙀》" ، url = f "https://t.me/UU_TTII"
                 ),
             ]
         ]
